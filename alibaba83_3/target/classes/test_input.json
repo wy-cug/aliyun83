@@ -1,0 +1,8 @@
+{
+  "prefixs":["Sql","Day",""],
+  "oss_endpoint": "http://oss-cn-hangzhou.aliyuncs.com",
+  "oss_key": "data/code83_api_dev.txt",
+  "bucket": "code83-exams",
+  "access_key": "LTAI5tQmmgwL6FxvLmcF6hYw",
+  "access_secret": "7Msn0sVDed5d5OP4PiBx9i7Ti0ooIx"
+}
